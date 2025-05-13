@@ -1,18 +1,3 @@
-# Todo App
+# Todo List
 
-This is a simple Todo app built using **React** and **Tailwind CSS**.
-
-## Features:
-- Add tasks to the list
-- Mark tasks as completed
-- Remove tasks from the list
-
-## Tech Stack:
-- **Frontend**: React
-- **Styling**: Tailwind CSS
-
-## Installation:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/leanwithkumar/todo_list.git
+A simple Todo List app made with **React** and **Tailwind CSS**.
